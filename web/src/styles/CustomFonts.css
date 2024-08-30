@@ -1,0 +1,15 @@
+@font-face {
+  font-family: "KaushanScript-Regular";
+  src: url("../fonts/KaushanScript-Regular.ttf") format("truetype");
+  /* Add additional font formats if necessary */
+  /* Specify the correct path to the font files */
+}
+
+/* body {
+  font-family: "KaushanScript-Regular", sans-serif;
+} */
+
+.my-header {
+  font-family: "KaushanScript-Regular", sans-serif;
+  font-size: x-large;
+}
